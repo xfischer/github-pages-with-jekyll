@@ -1,3 +1,7 @@
+---
+title: "My first blog post"
+date: 2019-04-25
+---
 # Hello, world !
 
 This is my first blog post. This is weird and new to me.
